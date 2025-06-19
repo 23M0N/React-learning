@@ -1,7 +1,7 @@
-import './App.css'
-import NameInput from './assets/components/NameInput'
+import ProductFetcher from './assets/components/ProductFetcher'
 
-function App() {
-  return(<NameInput/>)
+export default function App() {
+  return (
+    <ProductFetcher/>
+  )
 }
-export default App
