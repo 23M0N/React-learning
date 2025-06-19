@@ -1,7 +1,7 @@
-import ProductFetcher from './assets/components/ProductFetcher'
+import Inputfocus from "./assets/components/Inputfocus";
 
 export default function App() {
   return (
-    <ProductFetcher/>
+    <Inputfocus/>
   )
 }
