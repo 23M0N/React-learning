@@ -1,10 +1,10 @@
-import Header from "./assets/components/Header"
 import './App.css'
+import Timer from './assets/components/timer'
 
 function App() {
   return(
     <div>
-      <Header calss="head" name="Yahya"/>
+      <Timer/>
     </div>
   )
 }
